@@ -36,7 +36,7 @@ Purpose of this project to build a set of data reports to provide following answ
 
 ## Images
 
-![Weekly_Ride_Count(Male/Female)] (Images/Story .png)
-![Dashboard_1] (Images/Story  (1).png)
-![Dashboard_2] (Images/Story  (2).png)
+![Weekly_Ride_Count(Male/Female)](Images/Story.png)
+![Dashboard_1](Images/Story-1.png)
+![Dashboard_2](Images/Story-2.png)
 
