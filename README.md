@@ -40,3 +40,6 @@ Purpose of this project to build a set of data reports to provide following answ
 ![Dashboard_1](Images/Story-1.png)
 ![Dashboard_2](Images/Story-2.png)
 
+### Contact Info:
+* email id : tamasree.g@gmail.com
+* linkedin : https://www.linkedin.com/in/tamasree-sinha/
